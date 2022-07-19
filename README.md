@@ -5,12 +5,10 @@ This extension allows you to create different bookmarks for differnet video i.e 
 
 Steps to install this extension:
 
-Download the files from the repository.
-Open your chrome browser and go to chrome extensions from the top right corner then click on manage extensions and enable the developer mode of the chrome extension.
-Click on load unpacked and upload the file downloaded from the git repository.
-Enable the extension and bookmark it , and you are good to go.
-Enjoy the late night surfing with dark mode.
-This extension is still under process, where i will improve its ui but you can still use it, it works smoothly
-
+1) Download the files from the repository.
+2) Open your chrome browser and go to chrome extensions from the top right corner then click on manage extensions and enable the developer mode of the chrome extension.
+3) Click on load unpacked and upload the file downloaded from the git repository.
+4) Enable the extension and bookmark it , and you are good to go.
+5) Enjoy the youtube videos more efficiently.
 
 Feel free to fork the repository and let me know if there is any error or improvement needed.
